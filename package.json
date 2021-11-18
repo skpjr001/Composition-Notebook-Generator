@@ -1,0 +1,21 @@
+{
+  "name": "composition-notebook-generator",
+  "version": "1.0.0",
+  "description": "KDP composition notebook generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "KDP",
+    "notebook"
+  ],
+  "author": "skpjr001",
+  "license": "ISC",
+  "dependencies": {
+    "pdfkit": "^0.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7"
+  }
+}
